@@ -4,7 +4,7 @@ import time
 import os
 
 
-label = 'Delete'
+label = ''
 save_path = f'data_more(1)/{label}/'
 os.makedirs(save_path, exist_ok=True)
 
